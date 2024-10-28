@@ -156,3 +156,4 @@ echo $RANDOM
 ./binge.sh
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
