@@ -38,3 +38,4 @@ wich bash
 which bash
 __vsc_prompt_cmd_original
 ./questionnaire.sh
+ls --color=auto -l
