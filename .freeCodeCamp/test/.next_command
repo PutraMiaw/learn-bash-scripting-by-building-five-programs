@@ -72,3 +72,4 @@ QUESTION2="Where are ypu form?"
 echo --help
 man echo
 ./questionnaire.sh
+./questionnaire.sh
