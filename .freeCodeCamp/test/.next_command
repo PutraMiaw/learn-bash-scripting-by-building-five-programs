@@ -150,3 +150,4 @@ touch bingo.sh
 chmod 755 bingo.sh
 ./bingo.sh
 printenv
+echo $LANG
