@@ -186,3 +186,4 @@ help let
 touch foertune.sh
 touch fortune.sh
 chmod 755 fortune.sh
+chmod 755 fortune.sh
