@@ -66,3 +66,4 @@ echo Hello $NAME
 echo Hello $NAME
 ./questionnaire.sh
 ./questionnaire.sh
+QUESTION2="Where are ypu form?"
