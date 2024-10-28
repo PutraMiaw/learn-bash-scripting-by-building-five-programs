@@ -47,3 +47,21 @@ ls --color=auto -l
 ./questionnaire.sh
 echo QUESTION1
 ./questionnaire.sh
+echo
+echo NAME
+echo $NAME
+echo Hello $NAME
+echo ./questionnaire.sh
+./questionnaire.sh
+echo Hello $NAME
+echo Hello $NAME
+echo Hello $NAME
+echo Hello $NAME
+echo Hello $NAME
+./questionnaire.sh
+./questionnaire.sh
+echo Hello $NAME
+echo Hello $NAME
+./questionnaire.sh
+echo Hello $NAME
+./questionnaire.sh
