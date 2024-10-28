@@ -69,3 +69,4 @@ echo Hello $NAME
 QUESTION2="Where are ypu form?"
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
