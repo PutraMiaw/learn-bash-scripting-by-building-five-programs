@@ -101,3 +101,11 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ./countdown.sh [[ 4 -le 5 ]]
 [[ 4 -le 5 ]]
+echo
+echo $?
+[[ 4 -le 5 ]]
+echo
+echo $? [[ 4 -le 5 ]]
+echo $?
+[[ 4 -le 5 ]]
+echo $?
